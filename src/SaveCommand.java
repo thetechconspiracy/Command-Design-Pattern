@@ -1,6 +1,6 @@
 /*
  * Written by Joseph Still
- * Description
+ * Saves the document
  */
 
 public class SaveCommand implements Command {
