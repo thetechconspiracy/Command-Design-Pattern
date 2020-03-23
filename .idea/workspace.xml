@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="473fb9f4-a61e-493e-b98c-d7407689eb2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InputHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaveCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SaveCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SaveCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,5 +43,15 @@
       <updated>1585003144623</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1245" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1585003457154">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="1245" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1585003457154" />
+    <state x="953" y="509" width="974" height="517" key="dock-window-1" timestamp="1585003564221">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="953" y="509" width="974" height="517" key="dock-window-1/0.0.1920.1019@0.0.1920.1019" timestamp="1585003564221" />
   </component>
 </project>
